@@ -114,6 +114,7 @@ Output Ports:
 ●	03H → Sum
 
 ●	04H → Carry (if generated)
+
 ![Uploading image.png…]()
 
 
