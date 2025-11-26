@@ -114,6 +114,8 @@ Output Ports:
 ●	03H → Sum
 
 ●	04H → Carry (if generated)
+![Uploading image.png…]()
+
 
  
 
@@ -126,6 +128,8 @@ Input Ports:
 
 Output Ports:
 ●	05H → Result (Difference)
+<img width="940" height="425" alt="image" src="https://github.com/user-attachments/assets/fa82a4dd-23c5-4865-a58a-854655733e49" />
+
 
  
 
@@ -138,6 +142,8 @@ Input Ports:
 
 Output Ports:
 ●	06H → Product
+<img width="940" height="425" alt="image" src="https://github.com/user-attachments/assets/f2d18081-2f38-44e9-8f9e-9345367f6e21" />
+
 
  
 
@@ -152,7 +158,8 @@ Output Ports:
 ●	03H → Quotient
 
 ●	04H → Remainder
- 
+ <img width="940" height="425" alt="image" src="https://github.com/user-attachments/assets/0cf8a051-80a9-4e60-b11c-55ed9eba658c" />
+
 
 
 ## Result:
