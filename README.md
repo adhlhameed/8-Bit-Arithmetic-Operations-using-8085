@@ -115,7 +115,8 @@ Output Ports:
 
 ●	04H → Carry (if generated)
 
-![Uploading image.png…]()
+<img width="940" height="423" alt="image" src="https://github.com/user-attachments/assets/15dc481f-cebc-4e5e-ae1d-f6ae8ad31f6f" />
+
 
 
  
